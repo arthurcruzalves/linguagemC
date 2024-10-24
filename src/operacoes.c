@@ -18,7 +18,7 @@ int main(){
     dividir = num1 / num2;
     resto = num1 % num2;
 
-    printf("A soma entre %d e %d é igual a %d",num1,num2,somar);
+    printf("A soma entre %d e %d é igual a %d\n",num1,num2,somar);
     printf("A subtração entre %d e %d é igual a %d\n",num1,num2,subtrair);
     printf("A multiplicação entre %d e %d é igual a %d\n",num1,num2,multiplicar);
     printf("A divisão entre %d e %d é igual a %d\n",num1,num2,dividir);
