@@ -20,10 +20,9 @@ int main(){
      else if (placa==9 || placa == 0){
         printf("Este veículo não pode circular na Sexta-feira");
     }
-     else{
+     else if{
         printf("Numero da placa inválido!");
     }
-    printf("\n");
-    return 0;
+    pr
     
 }

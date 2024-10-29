@@ -7,7 +7,7 @@ int main(){
         printf("O valor %d é Par\n",n);
     }
 else{
-    printf("Onúmero %d é Impar\n");
+    printf("O número %d é Impar\n");
 }
 return 0;
 }
