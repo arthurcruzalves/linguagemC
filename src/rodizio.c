@@ -23,6 +23,10 @@ int main(){
      else if{
         printf("Numero da placa inválido!");
     }
-    pr
     
-}
+    else
+        printf("Numero inválido!");
+    }
+    printf("\n");
+    return 0;
+    
